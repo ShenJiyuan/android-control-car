@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth</string>
+    <string name="offline">离线模式</string>
+    <string name="online">在线模式</string>
+    <string name="controller">小车控制程序\n\n（服务端）</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
